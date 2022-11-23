@@ -136,7 +136,7 @@ body {
 --------------------------------------------------------------*/
 .background{
   width: 100%;
-  background-image: url(../img/back10.jpg);
+  background-image: url(img/back10.jpg);
   background-repeat: no repeat;
   background-size: cover;
   background position: top right;
